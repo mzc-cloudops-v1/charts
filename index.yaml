@@ -113,4 +113,15 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/cloudops-0.0.1/cloudops-0.0.1.tgz
     version: 0.0.1
-generated: "2025-11-13T07:08:30.847909286Z"
+  console:
+  - apiVersion: v2
+    appVersion: 1.x.y
+    created: "2025-11-13T07:59:00.759693366Z"
+    description: SpaceONE console Helm chart for Kubernetes
+    digest: 8bc5b30437654499375a67df668e8f00656dc523a374a161916be790912b62d2
+    name: console
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/console-1.2.17/console-1.2.17.tgz
+    version: 1.2.17
+generated: "2025-11-13T07:59:00.759699267Z"
