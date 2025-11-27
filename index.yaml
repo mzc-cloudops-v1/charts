@@ -392,6 +392,16 @@ entries:
   monitoring:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2025-11-27T08:21:22.73177108Z"
+    description: SpaceONE monitoring Helm chart for Kubernetes
+    digest: ed25dab48072b4fc9de917f261c97557db494437c5664fa3b607595661e95ca9
+    name: monitoring
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/monitoring-1.3.28/monitoring-1.3.28.tgz
+    version: 1.3.28
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2025-11-27T05:54:03.007354485Z"
     description: SpaceONE monitoring Helm chart for Kubernetes
     digest: 439f187e3bdb0c6d90606db243ee6d722beccf21e69f123f9094bba4ef831a0f
@@ -624,4 +634,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2025-11-27T08:20:25.562985391Z"
+generated: "2025-11-27T08:21:22.731799052Z"
