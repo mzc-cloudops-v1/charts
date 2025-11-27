@@ -369,6 +369,16 @@ entries:
   inventory:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2025-11-27T08:26:00.979124929Z"
+    description: SpaceONE inventory Helm chart for Kubernetes
+    digest: 56d74df1951d6c9b498bbe4416e048d32853b8893020bf6dc558cdf8b91783ca
+    name: inventory
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/inventory-1.3.23/inventory-1.3.23.tgz
+    version: 1.3.23
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2025-11-27T05:57:21.190053418Z"
     description: SpaceONE inventory Helm chart for Kubernetes
     digest: f88cc028854872d9834a85303e510fb59b1fd26095881d96e231b432741735ce
@@ -654,4 +664,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2025-11-27T08:25:08.728356612Z"
+generated: "2025-11-27T08:26:00.979153543Z"
