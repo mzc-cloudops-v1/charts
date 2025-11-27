@@ -247,6 +247,17 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/mzc-service-api-0.0.3/mzc-service-api-0.0.3.tgz
     version: 0.0.3
+  opsflow:
+  - apiVersion: v2
+    appVersion: 1.x.y
+    created: "2025-11-27T05:33:20.096478793Z"
+    description: SpaceONE OpsFlow Helm chart for Kubernetes
+    digest: 78265022af59974102cfbdb2938b21012ed1ea1a5462e8cc2ff717a663addbd3
+    name: opsflow
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/opsflow-0.0.8/opsflow-0.0.8.tgz
+    version: 0.0.8
   secret:
   - apiVersion: v2
     appVersion: 1.x.y
@@ -258,4 +269,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/secret-1.3.14-test/secret-1.3.14-test.tgz
     version: 1.3.14-test
-generated: "2025-11-27T05:31:16.788778498Z"
+generated: "2025-11-27T05:33:20.096962296Z"
