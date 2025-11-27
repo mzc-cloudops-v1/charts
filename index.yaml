@@ -225,6 +225,17 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/cloudops-0.0.1/cloudops-0.0.1.tgz
     version: 0.0.1
+  cost-ext:
+  - apiVersion: v2
+    appVersion: 1.x.y
+    created: "2025-11-27T05:31:16.78876357Z"
+    description: SpaceONE Cost Extension Helm chart for Kubernetes
+    digest: f968ab9f9a388b4ae89403fedcffbd4fcc09b14c0c258f4713286f8deeba3c30
+    name: cost-ext
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/cost-ext-0.0.15/cost-ext-0.0.15.tgz
+    version: 0.0.15
   mzc-service-api:
   - apiVersion: v2
     appVersion: 1.x.y
@@ -247,4 +258,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/secret-1.3.14-test/secret-1.3.14-test.tgz
     version: 1.3.14-test
-generated: "2025-11-27T05:29:24.841649652Z"
+generated: "2025-11-27T05:31:16.788778498Z"
