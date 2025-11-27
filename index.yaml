@@ -225,6 +225,17 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/cloudops-0.0.1/cloudops-0.0.1.tgz
     version: 0.0.1
+  mzc-service-api:
+  - apiVersion: v2
+    appVersion: 1.x.y
+    created: "2025-11-27T05:29:24.841639353Z"
+    description: SpaceONE MZC Service API Helm chart for Kubernetes
+    digest: ee302e71cab1a99bf106f1ed098381ee742f125072bb7b3e0d6dbc28aa753675
+    name: mzc-service-api
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/mzc-service-api-0.0.3/mzc-service-api-0.0.3.tgz
+    version: 0.0.3
   secret:
   - apiVersion: v2
     appVersion: 1.x.y
@@ -236,4 +247,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/secret-1.3.14-test/secret-1.3.14-test.tgz
     version: 1.3.14-test
-generated: "2025-11-25T04:11:25.728033603Z"
+generated: "2025-11-27T05:29:24.841649652Z"
