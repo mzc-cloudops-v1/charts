@@ -258,6 +258,17 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/cost-ext-0.0.15/cost-ext-0.0.15.tgz
     version: 0.0.15
+  file-manager:
+  - apiVersion: v2
+    appVersion: 1.x.y
+    created: "2025-11-27T05:46:32.414714645Z"
+    description: SpaceONE File Manager Helm chart for Kubernetes
+    digest: ba3d17f937adbbc4f173f0fb95613a76233d412739c973498fe103ca250d18b9
+    name: file-manager
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/file-manager-1.3.12/file-manager-1.3.12.tgz
+    version: 1.3.12
   identity:
   - apiVersion: v2
     appVersion: 1.x.y
@@ -357,4 +368,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/secret-1.3.14-test/secret-1.3.14-test.tgz
     version: 1.3.14-test
-generated: "2025-11-27T05:46:30.305908186Z"
+generated: "2025-11-27T05:46:32.414730554Z"
