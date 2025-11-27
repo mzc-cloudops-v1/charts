@@ -291,6 +291,17 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/mzc-service-api-0.0.3/mzc-service-api-0.0.3.tgz
     version: 0.0.3
+  notification:
+  - apiVersion: v2
+    appVersion: 1.x.y
+    created: "2025-11-27T05:46:21.037884889Z"
+    description: SpaceONE notification Helm chart for Kubernetes
+    digest: 2aa0974bd86ecabb7cdd893ecc9ba8cd148ee405262ec9814296fda38f00fe49
+    name: notification
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/notification-1.3.17/notification-1.3.17.tgz
+    version: 1.3.17
   opsflow:
   - apiVersion: v2
     appVersion: 1.x.y
@@ -324,4 +335,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/secret-1.3.14-test/secret-1.3.14-test.tgz
     version: 1.3.14-test
-generated: "2025-11-27T05:46:16.888582028Z"
+generated: "2025-11-27T05:46:21.038365799Z"
