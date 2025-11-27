@@ -529,6 +529,16 @@ entries:
   notification:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2025-11-27T08:23:15.88618389Z"
+    description: SpaceONE notification Helm chart for Kubernetes
+    digest: d5d442b4099c61036d17b882cdd57f9c0e25c21379047870e32ce77e532f68d8
+    name: notification
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/notification-1.3.18/notification-1.3.18.tgz
+    version: 1.3.18
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2025-11-27T05:46:21.037884889Z"
     description: SpaceONE notification Helm chart for Kubernetes
     digest: 2aa0974bd86ecabb7cdd893ecc9ba8cd148ee405262ec9814296fda38f00fe49
@@ -634,4 +644,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2025-11-27T08:21:22.731799052Z"
+generated: "2025-11-27T08:23:15.886586464Z"
