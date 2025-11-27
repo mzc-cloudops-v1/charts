@@ -942,6 +942,16 @@ entries:
   secret:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2025-11-27T12:35:58.698294787Z"
+    description: SpaceONE secret Helm chart for Kubernetes
+    digest: 01ddaeb111ab76f0873b279be5943dfa27507759309b7fae558edfeb5526fe00
+    name: secret
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/secret-1.3.17/secret-1.3.17.tgz
+    version: 1.3.17
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2025-11-27T12:28:45.618760005Z"
     description: SpaceONE secret Helm chart for Kubernetes
     digest: 1bbfb4f609ad97059ac64c4680cdd25eb4a78c8ebf09819c36af5a00287d2fdb
@@ -1002,4 +1012,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2025-11-27T12:29:55.101034329Z"
+generated: "2025-11-27T12:35:58.698620636Z"
