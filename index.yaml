@@ -1234,6 +1234,16 @@ entries:
   mzc-service-api:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2025-11-28T07:20:03.221806133Z"
+    description: SpaceONE MZC Service API Helm chart for Kubernetes
+    digest: bd7add2585e7bbd250f338fdb24aeb7fe66633ac8464612e8c2649614d5f89fb
+    name: mzc-service-api
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/mzc-service-api-0.0.6/mzc-service-api-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2025-11-28T03:27:32.757330183Z"
     description: SpaceONE MZC Service API Helm chart for Kubernetes
     digest: 5a42a0ce7cf7fe014cc198de4a430033c0412d6b5e19c8d995aef8d28af2f287
@@ -1500,4 +1510,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2025-11-28T07:19:14.65625971Z"
+generated: "2025-11-28T07:20:03.221982724Z"
