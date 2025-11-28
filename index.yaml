@@ -1165,6 +1165,16 @@ entries:
   search:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2025-11-28T02:36:19.384525827Z"
+    description: SpaceONE search Helm chart for Kubernetes
+    digest: 747672dfbd6cb5d19cd04a4013b16b66bbf9e88628095fd01e2e55f4236b07e4
+    name: search
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/search-1.0.4/search-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2025-11-27T08:30:17.478408842Z"
     description: SpaceONE search Helm chart for Kubernetes
     digest: bf301a1022d3d82cf1b9e85317d55d756707ca495b5e5efa2c89c3d060903bc8
@@ -1256,4 +1266,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2025-11-28T02:35:18.688951111Z"
+generated: "2025-11-28T02:36:19.384641474Z"
