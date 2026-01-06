@@ -340,6 +340,16 @@ entries:
   config:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2026-01-06T11:25:01.822300274Z"
+    description: SpaceONE config Helm chart for Kubernetes
+    digest: 2b8fe15df4b2ae9a7c8f05e71061cc49625f1e0f30a401cebbee6d619f082010
+    name: config
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/config-1.3.15/config-1.3.15.tgz
+    version: 1.3.15
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2025-11-28T07:11:05.837320534Z"
     description: SpaceONE config Helm chart for Kubernetes
     digest: 72323afe16220843a9627f7e97df8afe488a524948e3d48b90d9c12f2093858d
@@ -1932,4 +1942,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-01-06T11:24:08.822476629Z"
+generated: "2026-01-06T11:25:01.822458931Z"
