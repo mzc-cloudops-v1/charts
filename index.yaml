@@ -627,6 +627,16 @@ entries:
   file-manager:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2026-01-06T11:36:38.356310267Z"
+    description: SpaceONE File Manager Helm chart for Kubernetes
+    digest: 0d2d0c689b62e8699ef3086046729f5307816312ce4f53fc79a0296bb683fcc7
+    name: file-manager
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/file-manager-1.3.16/file-manager-1.3.16.tgz
+    version: 1.3.16
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2025-11-28T07:15:49.568186607Z"
     description: SpaceONE File Manager Helm chart for Kubernetes
     digest: 02b90b586df0b78e4cf0b840ad94d80c5fb33d1e7a42921b693eae013c350661
@@ -1992,4 +2002,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-01-06T11:35:58.955153588Z"
+generated: "2026-01-06T11:36:38.356513184Z"
