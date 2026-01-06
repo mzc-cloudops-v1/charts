@@ -678,6 +678,16 @@ entries:
   identity:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2026-01-06T11:37:16.31651231Z"
+    description: SpaceONE identity Helm chart for Kubernetes
+    digest: b7018ae4d891cf73cbaff25e2c86505d863d035decc012c9f00175b4367bedca
+    name: identity
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/identity-1.3.21/identity-1.3.21.tgz
+    version: 1.3.21
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2025-11-28T07:16:46.990338241Z"
     description: SpaceONE identity Helm chart for Kubernetes
     digest: 0ae40ba5d2e2dc6102826ab65bf09befe9b00fd6fa7cfdcef863869ef2659c28
@@ -2002,4 +2012,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-01-06T11:36:38.356513184Z"
+generated: "2026-01-06T11:37:16.316721791Z"
