@@ -421,6 +421,16 @@ entries:
   console:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2026-01-13T08:06:11.65732239Z"
+    description: SpaceONE console Helm chart for Kubernetes
+    digest: 58a06b862c591ffcac9e0fc7d089396a842d513f1ca6311bb5d1e57452fde1a0
+    name: console
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/console-2.0.1/console-2.0.1.tgz
+    version: 2.0.1
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2025-11-27T06:13:37.782802567Z"
     description: SpaceONE console Helm chart for Kubernetes
     digest: 3be78cdf9ce07be7c9638a0998279aa5e1063c0aae6478c3a0697c34d50faa67
@@ -2261,4 +2271,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-01-13T08:02:16.01637383Z"
+generated: "2026-01-13T08:06:11.657556525Z"
