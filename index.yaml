@@ -2389,6 +2389,17 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/secret-1.3.14/secret-1.3.14.tgz
     version: 1.3.14
+  spacectl:
+  - apiVersion: v2
+    appVersion: 1.x.y
+    created: "2026-01-13T08:47:26.983546779Z"
+    description: A spacectl chart for Kubernetes
+    digest: 9eae8c15fe9cd685968b0e6f6bf3ad55c821b49a3d671a7521d524d42c5b8646
+    name: spacectl
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/spacectl-2.0.1/spacectl-2.0.1.tgz
+    version: 2.0.1
   statistics:
   - apiVersion: v2
     appVersion: 1.x.y
@@ -2461,4 +2472,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-01-13T08:41:09.396170489Z"
+generated: "2026-01-13T08:47:26.98386521Z"
