@@ -2178,6 +2178,16 @@ entries:
   policy-board:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2026-01-13T08:41:09.39534697Z"
+    description: CloudOps Policy Board Helm chart for Kubernetes
+    digest: 56354a753d882065b609fdb96949a3dd52a0df0e03c0fd2d55979da5f531654c
+    name: policy-board
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/policy-board-2.0.1/policy-board-2.0.1.tgz
+    version: 2.0.1
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2026-01-06T11:41:30.477981405Z"
     description: CloudOps Policy Board Helm chart for Kubernetes
     digest: 04366820bb2e83fca3a8b2e1ba072873265a5cdce4fc5770af87770f1888c657
@@ -2451,4 +2461,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-01-13T08:36:43.085643157Z"
+generated: "2026-01-13T08:41:09.396170489Z"
