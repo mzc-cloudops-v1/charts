@@ -2056,6 +2056,16 @@ entries:
   opsflow:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2026-01-13T08:36:43.08413505Z"
+    description: SpaceONE OpsFlow Helm chart for Kubernetes
+    digest: f020c4a9e601cda0b4712533a8655bf0fc2fc8cfc62244418ff48ea12ec3b155
+    name: opsflow
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/opsflow-2.0.1/opsflow-2.0.1.tgz
+    version: 2.0.1
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2026-01-06T11:40:19.675188547Z"
     description: SpaceONE OpsFlow Helm chart for Kubernetes
     digest: 26f8121919866a2e3348e6e76df6dd86e617e2728a392e9e0138b3d404e58057
@@ -2441,4 +2451,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-01-13T08:34:56.454892257Z"
+generated: "2026-01-13T08:36:43.085643157Z"
