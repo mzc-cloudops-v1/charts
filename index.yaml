@@ -534,6 +534,16 @@ entries:
   cost-analysis:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2026-01-13T08:10:51.518274669Z"
+    description: SpaceONE Cost Analysis Helm chart for Kubernetes
+    digest: 4495a01eded58bb3bce957b8d618084dfa7185164e6e81585f76b8b8be506d9f
+    name: cost-analysis
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/cost-analysis-2.0.1/cost-analysis-2.0.1.tgz
+    version: 2.0.1
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2026-01-06T11:34:27.084242267Z"
     description: SpaceONE Cost Analysis Helm chart for Kubernetes
     digest: 008f731ee7bc8b4e61e812197acce35ee1901acf94266d67b7466e7849ed8ada
@@ -2291,4 +2301,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-01-13T08:09:34.69516035Z"
+generated: "2026-01-13T08:10:51.518587831Z"
