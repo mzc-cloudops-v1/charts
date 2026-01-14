@@ -2511,6 +2511,16 @@ entries:
   statistics:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2026-01-14T01:59:15.420524565Z"
+    description: SpaceONE statistics Helm chart for Kubernetes
+    digest: 7a95f1a8fd6c3c5db3f874db57fa3a7d94eb40e7ef9adc8c0632a333468ff0df
+    name: statistics
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/statistics-2.0.1/statistics-2.0.1.tgz
+    version: 2.0.1
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2025-11-27T05:46:47.522296067Z"
     description: SpaceONE statistics Helm chart for Kubernetes
     digest: 2a66bc373ac068a1e9a967d9f1b74ce1f1af6a7eb1e1e108248a9749eeb31d43
@@ -2580,4 +2590,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-01-13T08:56:07.717155803Z"
+generated: "2026-01-14T01:59:15.420863973Z"
