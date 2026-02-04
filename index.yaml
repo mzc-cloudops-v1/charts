@@ -74,6 +74,16 @@ entries:
   board:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2026-02-04T04:29:11.064718189Z"
+    description: SpaceONE board Helm chart for Kubernetes
+    digest: 00653f7cb509f5eba46bde7de7e90003302d044992c05bf78759a10524a2917b
+    name: board
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/board-2.0.2/board-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2026-01-13T07:59:35.142372957Z"
     description: SpaceONE board Helm chart for Kubernetes
     digest: 9ad7fe5bf5fd682ecafa5b4b352dc0179e1c75559089f5f8ef8e1653aa2bd876
@@ -2736,4 +2746,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-02-04T04:25:42.798452791Z"
+generated: "2026-02-04T04:29:11.065026591Z"
