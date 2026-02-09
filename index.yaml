@@ -71,6 +71,17 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/alert-manager-0.0.9/alert-manager-0.0.9.tgz
     version: 0.0.9
+  audit:
+  - apiVersion: v2
+    appVersion: 1.x.y
+    created: "2026-02-09T09:12:21.807425402Z"
+    description: SpaceONE Audit Service Helm Chart
+    digest: a808783975b510fb026f140513b8a0a5bd49fb89e11643fef4b4e6be8d9ed6a2
+    name: audit
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/audit-2.0.1/audit-2.0.1.tgz
+    version: 2.0.1
   board:
   - apiVersion: v2
     appVersion: 1.x.y
@@ -3050,4 +3061,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-02-06T07:45:05.744564955Z"
+generated: "2026-02-09T09:12:21.808607817Z"
