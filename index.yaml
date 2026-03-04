@@ -74,6 +74,16 @@ entries:
   audit:
   - apiVersion: v2
     appVersion: 1.x.y
+    created: "2026-03-04T06:39:19.154220884Z"
+    description: CloudOps Audit Service Helm Chart
+    digest: 8a2d54becc10a6e9e433f698015ab494248c412a6941e324a2bce0316a7b3cf5
+    name: audit
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/audit-2.0.2/audit-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v2
+    appVersion: 1.x.y
     created: "2026-02-09T09:12:21.807425402Z"
     description: SpaceONE Audit Service Helm Chart
     digest: a808783975b510fb026f140513b8a0a5bd49fb89e11643fef4b4e6be8d9ed6a2
@@ -3177,4 +3187,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-02-09T09:31:46.667510741Z"
+generated: "2026-03-04T06:39:19.154867426Z"
