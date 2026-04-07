@@ -1174,6 +1174,122 @@ entries:
   mzc-cloudops-v1:
   - apiVersion: v2
     appVersion: 2.0.0
+    created: "2026-04-07T09:36:45.203200311Z"
+    dependencies:
+    - condition: alert-manager.enabled
+      name: alert-manager
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: audit.enabled
+      name: audit
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.2
+    - condition: board.enabled
+      name: board
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.3
+    - condition: config.enabled
+      name: config
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: console.enabled
+      name: console
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.5
+    - condition: console-api.enabled
+      name: console-api
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: console-api-v2.enabled
+      name: console-api-v2
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.6
+    - condition: cost-analysis.enabled
+      name: cost-analysis
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.2
+    - condition: cost-ext.enabled
+      name: cost-ext
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.2
+    - condition: dashboard.enabled
+      name: dashboard
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: file-manager.enabled
+      name: file-manager
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.2
+    - condition: identity.enabled
+      name: identity
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.3
+    - condition: inventory.enabled
+      name: inventory
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: marketplace-assets.enabled
+      name: marketplace-assets
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: '>=1.0.0'
+    - condition: monitoring.enabled
+      name: monitoring
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: mzc-service-api.enabled
+      name: mzc-service-api
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: notification.enabled
+      name: notification
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: opsflow.enabled
+      name: opsflow
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: plugin.enabled
+      name: plugin
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.2
+    - condition: policy-board.enabled
+      name: policy-board
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.2
+    - condition: repository.enabled
+      name: repository
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: search.enabled
+      name: search
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: secret.enabled
+      name: secret
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: spacectl.enabled
+      name: spacectl
+      repository: https://cloudforet-io.github.io/charts
+      version: '>=1.0.0'
+    - condition: statistics.enabled
+      name: statistics
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.1
+    - condition: supervisor.enabled
+      name: supervisor
+      repository: https://mzc-cloudops-v1.github.io/charts
+      version: 2.0.2
+    description: A Helm chart for CloudOps
+    digest: 0090144ce91a6b7d89b9c78309f88b736cfde59f4b2d5e5e1146c4f5e1bb5e99
+    home: https://www.megazone.com
+    name: mzc-cloudops-v1
+    type: application
+    urls:
+    - https://github.com/mzc-cloudops-v1/charts/releases/download/mzc-cloudops-v1-2.0.8/mzc-cloudops-v1-2.0.8.tgz
+    version: 2.0.8
+  - apiVersion: v2
+    appVersion: 2.0.0
     created: "2026-03-05T05:21:41.999288321Z"
     dependencies:
     - condition: alert-manager.enabled
@@ -3489,4 +3605,4 @@ entries:
     urls:
     - https://github.com/mzc-cloudops-v1/charts/releases/download/supervisor-1.1.16/supervisor-1.1.16.tgz
     version: 1.1.16
-generated: "2026-04-07T09:30:33.944304893Z"
+generated: "2026-04-07T09:36:45.204111716Z"
